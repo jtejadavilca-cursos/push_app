@@ -69,7 +69,8 @@ class DefaultFirebaseOptions {
     projectId: 'testing-firebase-974bd',
     databaseURL: 'https://testing-firebase-974bd.firebaseio.com',
     storageBucket: 'testing-firebase-974bd.appspot.com',
-    androidClientId: '507327301223-r5kb48758g8mp43nm5eppja6ka3lvsct.apps.googleusercontent.com',
+    androidClientId:
+        '507327301223-r5kb48758g8mp43nm5eppja6ka3lvsct.apps.googleusercontent.com',
     iosBundleId: 'com.example.pushApp',
   );
 
@@ -80,7 +81,8 @@ class DefaultFirebaseOptions {
     projectId: 'testing-firebase-974bd',
     databaseURL: 'https://testing-firebase-974bd.firebaseio.com',
     storageBucket: 'testing-firebase-974bd.appspot.com',
-    androidClientId: '507327301223-r5kb48758g8mp43nm5eppja6ka3lvsct.apps.googleusercontent.com',
+    androidClientId:
+        '507327301223-r5kb48758g8mp43nm5eppja6ka3lvsct.apps.googleusercontent.com',
     iosBundleId: 'com.example.pushApp.RunnerTests',
   );
 }
