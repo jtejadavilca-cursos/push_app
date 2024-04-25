@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>507327301223-r5kb48758g8mp43nm5eppja6ka3lvsct.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBz4HwBSzVQTQnZ3lYZAn194z_jIu_ffWc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>507327301223</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pushApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>testing-firebase-974bd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testing-firebase-974bd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:507327301223:ios:3417cec92d267e214bf6c2</string>
+	<key>DATABASE_URL</key>
+	<string>https://testing-firebase-974bd.firebaseio.com</string>
+</dict>
+</plist>
